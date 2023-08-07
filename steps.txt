@@ -6,3 +6,12 @@ git commit -m " first step"
 git push origin master
 wwwaaa
 
+to create a new branch: git branch hello
+to move to that branch: branch checkout hello
+this process done locally.
+create new filesthen add, commit
+go to master branch and write: git push origin hello
+this process will create new remote branch called hello 
+all files copied to it
+locally all files in master and hello in same folder, but
+separated remotely.
