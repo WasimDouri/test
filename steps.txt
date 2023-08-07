@@ -1,0 +1,6 @@
+
+git init
+git remote add origin https://github.com/seemeo/test
+git add .   >> all current dir
+git commit -m " first step"
+git push origin master
