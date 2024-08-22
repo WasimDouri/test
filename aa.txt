@@ -1,4 +1,0 @@
-hi there
-im fine
-iam adding some content to the repo now
-I will commit and push
