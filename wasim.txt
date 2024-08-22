@@ -1,4 +1,0 @@
-Hello there
-im a file and dir test
-mainly linux command training
-hehehe
